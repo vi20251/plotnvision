@@ -7,7 +7,7 @@
 - What insights can you gain from interacting with the plot that you might miss in a static plot?
 
 # Code
-Copy your Python code from the notebook and paste them here
+_Copy your Python code from the notebook and paste them below:_
 
 # Reflection
-Copy your reflection sentences from the notebook and paste them here
+_Tulis ulang refleksi dari notebook di bawah ini ke dalam Bahasa Indonesia_

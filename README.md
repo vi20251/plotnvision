@@ -1,5 +1,8 @@
 # Plot and Vision Assignment
 
+Student ID (NRP): 50xxxxxxxx
+Full Name: Fulanah binti Fulan
+
 ## Instructions
 
 1. Open the respective folder and `.ipynb` notebook for each following task.
@@ -28,4 +31,4 @@ Happy visualizing!
 **Instructions:**
 In 150–200 words, discuss how understanding human vision and perception can help AI engineers design better data visualizations and interfaces. Give at least one example from your own plots above.
 
-_Write your reflection essay below:_
+_Tulis refleksi Anda dalam bahasa Indonesia:_

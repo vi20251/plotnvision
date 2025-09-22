@@ -8,7 +8,7 @@
 - Which plot is easier to interpret? Why? Relate your answer to human visual perception.
 
 # Code
-Copy your Python code from the notebook and paste them here
+_Copy your Python code from the notebook and paste them below:_
 
 # Reflection
-Copy your reflection sentences from the notebook and paste them here
+_Tulis ulang refleksi dari notebook di bawah ini ke dalam Bahasa Indonesia_
