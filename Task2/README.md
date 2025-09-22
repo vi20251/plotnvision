@@ -11,4 +11,4 @@
 _Copy your Python code from the notebook and paste them below:_
 
 # Reflection
-_Tulis ulang refleksi dari notebook di bawah ini ke dalam Bahasa Indonesia_
+_Tulis ulang refleksi dari notebook ke dalam Bahasa Indonesia di bawah ini:_
