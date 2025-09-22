@@ -3,8 +3,8 @@
 ## Instructions
 
 1. Open the respective folder and `.ipynb` notebook for each following task.
-2. Complete each task by writing code in the provided cells (inside notebook).
-3. Answer the reflection questions in the Readme.md (markdown file) on the respective folder.
+2. Complete each task by writing code in the provided cells (inside the notebook).
+3. Rewrite/replicate all the things you do inside the notebook into the Readme.md (markdown file) on the respective folder.
 
 ## Requirements
 
