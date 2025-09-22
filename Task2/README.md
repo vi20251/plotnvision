@@ -1,0 +1,14 @@
+## Task 2: Preattentive Features
+
+**Instructions:**
+- Make a scatter plot of carat vs. price for a random sample of 500 diamonds.
+- Highlight diamonds with the “Ideal” cut in a distinct color, and all others in a neutral color.
+
+**Reflection:**
+- How quickly can you spot the “Ideal” cut diamonds? Why is this important in visualization?
+
+# Code
+Copy your Python code from the notebook and paste them here
+
+# Reflection
+Copy your reflection sentences from the notebook and paste them here
