@@ -19,6 +19,13 @@
 - Task 3: Spatial Mapping (Heatmap)
 - Task 4: Interactivity (Bonus)
 - Task 5: Perceptual Pitfalls
-- General Reflection Essay (on the root's/main's Readme.md)
+- General Reflection Essay (on the root's/main's Readme.md below)
 
 Happy visualizing!
+
+# General Reflection Essay
+
+**Instructions:**
+In 150–200 words, discuss how understanding human vision and perception can help AI engineers design better data visualizations and interfaces. Give at least one example from your own plots above.
+
+_Write your reflection essay below:_
